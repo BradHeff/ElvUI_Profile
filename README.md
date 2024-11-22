@@ -35,7 +35,7 @@ Here I have put together my complete EvlUI profile for you. This profile is for 
  - [![ProjectAzilroka](https://img.shields.io/badge/Addon-ProjectAzilroka-blue)](https://www.curseforge.com/wow/addons/projectazilroka)
  - ###Combat Text:
    - [![FCT](https://img.shields.io/badge/Addon-FCT-red)](https://wowup.io/addons/2797820)
-   - [![MikScrollingBattleText (Recommended)](https://img.shields.io/badge/Addon-FCT-red)](https://www.curseforge.com/wow/addons/mik-scrolling-battle-text)
+   - [![MikScrollingBattleText](https://img.shields.io/badge/Addon-FCT-red)](https://www.curseforge.com/wow/addons/mik-scrolling-battle-text) <--(Recommended)
  - [![Details](https://img.shields.io/badge/Addon-Details-lightgrey)](https://www.curseforge.com/wow/addons/details)
  - [![DBM](https://img.shields.io/badge/Addon-DBM-brightgreen)](https://www.curseforge.com/wow/addons/deadly-boss-mods)
  - [![WarpDeplete](https://img.shields.io/badge/Addon-WarpDeplete-red)](https://www.curseforge.com/wow/addons/warpdeplete)
