@@ -33,7 +33,7 @@ Here I have put together my complete EvlUI profile for you. This profile is for 
 ## These addons are Optional (not needed):
  - [![AddonSkins](https://img.shields.io/badge/Addon-AddonSkins-blue)](https://www.curseforge.com/wow/addons/addonskins)
  - [![ProjectAzilroka](https://img.shields.io/badge/Addon-ProjectAzilroka-blue)](https://www.curseforge.com/wow/addons/projectazilroka)
- - ###Combat Text:
+ - ### Combat Text:
    - [![FCT](https://img.shields.io/badge/Addon-FCT-red)](https://wowup.io/addons/2797820)
    - [![MikScrollingBattleText](https://img.shields.io/badge/Addon-MikSBT-red)](https://www.curseforge.com/wow/addons/mik-scrolling-battle-text) <--(Recommended)
  - [![Details](https://img.shields.io/badge/Addon-Details-lightgrey)](https://www.curseforge.com/wow/addons/details)
